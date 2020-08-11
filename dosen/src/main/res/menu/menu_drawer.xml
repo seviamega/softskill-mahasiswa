@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single" >
+        <item
+            android:id="@+id/nev_anakwali"
+            android:title="@string/nav_anak_wali"
+            android:icon="@drawable/icon_anak_wali"/>
+
+        <item
+            android:id="@+id/nav_kelas"
+            android:title="@string/nav_kelas"
+            android:icon="@drawable/icon_kelas"/>
+
+        <item
+            android:id="@+id/nav_pencarian"
+            android:title="@string/nav_pencarian"
+            android:icon="@drawable/icon_pencarian"/>
+
+        <item
+            android:id="@+id/nav_notifikasi"
+            android:title="@string/nav_notif"
+            android:icon="@drawable/icon_notifikasi"/>
+
+        <item
+            android:id="@+id/nav_laporan_saya"
+            android:title="@string/nav_laporan"
+            android:icon="@drawable/icon_laporan"/>
+    </group>
+
+    <item android:title="@string/pendukung">
+        <menu>
+            <item
+                android:id="@+id/nav_tentang"
+                android:title="@string/nav_tentang"/>
+
+            <item
+                android:id="@+id/nav_batuan"
+                android:title="@string/nav_bantuan"/>
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/base_card_view"
+    android:layout_marginBottom="8dp"
+    android:layout_marginStart="16dp"
+    android:layout_marginEnd="16dp"
+    android:layout_marginTop="8dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/img_list_notifikasi"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:src="@drawable/img_profile"
+        app:civ_border_color="@color/colorGray"
+        app:civ_border_width="1dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_nama_list_notif"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="8dp"
+        android:singleLine="true"
+        tools:text="Merokok di lingkungan kampus"
+        android:textColor="@color/colorBlack"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/img_list_notifikasi"
+        app:layout_constraintTop_toTopOf="@+id/img_list_notifikasi" />
+
+    <TextView
+        android:id="@+id/tv_pesan_dari_list_notif"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        tools:text="Hetti Hidayati, S.Kom., MT."
+        android:textColor="@color/colorGray"
+        app:layout_constraintEnd_toEndOf="@+id/tv_nama_list_notif"
+        app:layout_constraintStart_toStartOf="@+id/tv_nama_list_notif"
+        app:layout_constraintTop_toBottomOf="@+id/tv_nama_list_notif" />
+
+    <TextView
+        android:id="@+id/tv_waktu_list_kesalahan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="16dp"
+        tools:text="21 Oktober 2019. 14:00"
+        android:textColor="@color/colorBlack"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/tv_nama_list_notif"
+        app:layout_constraintTop_toBottomOf="@+id/tv_pesan_dari_list_notif" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

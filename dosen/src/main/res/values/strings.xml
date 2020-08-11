@@ -1,0 +1,74 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Sidoma Dosen</string>
+
+    <string name="poin">Poin</string>
+    <string name="anakwali_tidak_ada">Anda tidak memiliki anak wali.</string>
+    <string name="total_poin">Total poin : </string>
+    <string name="persen_poin">0%</string>
+    <string name="simpan">SIMPAN</string>
+    <string name="notifikasi_tidak_ada">Anda tidak memiliki notifikasi</string>
+    <string name="nama">Nama</string>
+    <string name="nim">NIM</string>
+    <string name="kelas">Kelas</string>
+    <string name="no_telepon">No. Telepon</string>
+    <string name="edit_profil">Edit profil</string>
+    <string name="nip">NIP</string>
+    <string name="keluar">Keluar</string>
+    <string name="nav_anak_wali">Anak Wali</string>
+    <string name="nav_kelas">Kelas</string>
+    <string name="nav_pencarian">Pencarian</string>
+    <string name="nav_notif">Notifikasi</string>
+    <string name="nav_laporan">Laporan Saya</string>
+    <string name="nav_tentang">Tentang Sidoma</string>
+    <string name="nav_bantuan">Bantuan</string>
+    <string name="copyright">&#169; copyright 2020</string>
+    <string name="d3_rpla">D3RPLA Telkom University</string>
+    <string name="desk_apk">Aplikasi Penunjang Implementasi Soft Skill Mahasiswa di Kehidupan Kampus</string>
+    <string name="masuk">Masuk</string>
+    <string name="buka">Buka</string>
+    <string name="tutup">Tutup</string>
+    <string name="batal">Batal</string>
+
+    <string name="wait">Tunggu sebentar...</string>
+    <string name="nomor_tidak_kosong">Nomor telepon tidak boleh kosong!</string>
+    <string name="data_tidak_kosong">Data tidak boleh kosong!</string>
+    <string name="berhasil_memperbarui">Berhasil memperbarui</string>
+    <string name="gagal_memperbarui">Gagal memperbarui</string>
+    <string name="title_edit_profil">Edit Profil</string>
+    <string name="title_edit_kesalahan">Edit Kesalahan</string>
+    <string name="title_detail_kesalahan">Detail Kesalahan</string>
+    <string name="title_profil_dosen">Profil Dosen</string>
+    <string name="title_tambah_keselahan">Tambah Kesalahan</string>
+    <string name="berhasil_tambah_kesalahan">Berhasil menambahkan kesalahan</string>
+    <string name="gagal">Gagal</string>
+    <string name="dikirim">Dikirim oleh </string>
+    <string name="gagal_login">Gagal login</string>
+    <string name="berhasil_login">Berhasil login</string>
+    <string name="silahkan_login">Silahkan login</string>
+    <string name="tidak_valid">Email atau password tidak valid!</string>
+    <string name="pendukung">Pendukung</string>
+
+
+    <string name="tidak_ada_kesalahan">Tidak ada kesalahan</string>
+    <string name="tidak_ada_catatan">Tidak ada catatan</string>
+    <string name="mhs_tidak_terdaftar">Mahasiswa tidak terdaftar</string>
+
+    <string name="isi_tentang">Sidoma merupakan aplikasi mobile yang dapat membantu dosen dalam melakukan pencatatan kesalahan yang dilakukan oleh mahasiswa. Kemudian dosen wali akan menerima pemberitahuan mengenai kesalahan yang telah dilakukan oleh mahasiswa wali. Dan dosen wali dapat melakukan monitoring kepada mahasiswa yang telah memperoleh banyak poin. Mahasiswa juga memperoleh pemberitahuan tentang kesalahan yang telah dilakukan.</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="lihat_profil">lihat profil</string>
+    <string name="email">Email</string>
+    <string name="edit">Edit</string>
+    <string name="hapus">Hapus</string>
+    <string name="kesalahan">Kesalahan</string>
+    <string name="password">Password</string>
+    <string name="hapus_salaah">Hapus kesalahan</string>
+    <string name="yakin_menghapus">Kamu yakin ingin menghapus kesalahan?</string>
+    <string name="berhasil_hapus_kesalahan">Kesalahan berhasil dihapus</string>
+    <string name="desckripsi_foto">desckripsi foto</string>
+    <string name="terima">Terima</string>
+    <string name="tolak">Tolak</string>
+
+
+</resources>

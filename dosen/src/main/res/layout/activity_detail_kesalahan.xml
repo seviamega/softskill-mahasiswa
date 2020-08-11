@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.DetailKesalahanActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/img_detail_kesalahan"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:src="@drawable/img_profile"
+            app:civ_border_color="@color/colorGray"
+            app:civ_border_width="1dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/tv_nama_detail_kesalahan"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            tools:text="Ramadansyah"
+            android:textColor="@color/colorBlack"
+            android:textSize="18sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/img_detail_kesalahan"
+            app:layout_constraintTop_toTopOf="@+id/img_detail_kesalahan" />
+
+        <TextView
+            android:id="@+id/tv_nim_detail_kesalahan"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            tools:text="6706174096"
+            android:textColor="@color/colorGray"
+            app:layout_constraintEnd_toEndOf="@+id/tv_nama_detail_kesalahan"
+            app:layout_constraintStart_toStartOf="@+id/tv_nama_detail_kesalahan"
+            app:layout_constraintTop_toBottomOf="@+id/tv_nama_detail_kesalahan" />
+
+        <TextView
+            android:id="@+id/tv_waktu_detail_kesalahan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            tools:text="21 Oktober 2019. 14:00"
+            android:textColor="@color/colorBlack"
+            app:layout_constraintStart_toStartOf="@+id/img_detail_kesalahan"
+            app:layout_constraintTop_toBottomOf="@+id/img_detail_kesalahan" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintGuide_percent="0.14" />
+
+        <TextView
+            android:id="@+id/tv_desk_detail_kesalahan"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            tools:text="Ramadansyah merokok di lingkungan kampus"
+            android:textAlignment="viewStart"
+            android:textAllCaps="false"
+            android:textSize="16sp"
+            app:layout_constraintEnd_toEndOf="@+id/tv_nim_detail_kesalahan"
+            app:layout_constraintStart_toStartOf="@+id/textView10"
+            app:layout_constraintTop_toBottomOf="@+id/textView6" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@string/poin"
+            app:layout_constraintStart_toStartOf="@+id/tv_pengirim_detail_kesalahan"
+            app:layout_constraintTop_toBottomOf="@+id/tv_pengirim_detail_kesalahan" />
+
+        <TextView
+            android:id="@+id/tv_poin_detail_kesalahan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="24dp"
+            tools:text="50"
+            android:textColor="@color/colorPrimary"
+            app:layout_constraintBottom_toBottomOf="@+id/textView6"
+            app:layout_constraintStart_toEndOf="@+id/textView6"
+            app:layout_constraintTop_toTopOf="@+id/textView6" />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="@string/dikirim"
+            app:layout_constraintStart_toStartOf="@+id/tv_waktu_detail_kesalahan"
+            app:layout_constraintTop_toBottomOf="@+id/tv_waktu_detail_kesalahan" />
+
+        <TextView
+            android:id="@+id/tv_pengirim_detail_kesalahan"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            tools:text="Hetti Hidayati, S.Kom., MT."
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/tv_desk_detail_kesalahan"
+            app:layout_constraintStart_toStartOf="@+id/textView10"
+            app:layout_constraintTop_toBottomOf="@+id/textView10" />
+
+        <Button
+            android:id="@+id/btn_edit_detail_kesalahan"
+            style="@style/base_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@string/edit"
+            app:layout_constraintEnd_toEndOf="@+id/tv_desk_detail_kesalahan"
+            app:layout_constraintTop_toBottomOf="@+id/tv_desk_detail_kesalahan" />
+
+        <ImageView
+            android:id="@+id/img_pending"
+            android:layout_width="0dp"
+            android:layout_height="200dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            app:layout_constraintEnd_toEndOf="@+id/tv_desk_detail_kesalahan"
+            app:layout_constraintStart_toStartOf="@+id/tv_desk_detail_kesalahan"
+            app:layout_constraintTop_toBottomOf="@+id/tv_desk_detail_kesalahan"
+            tools:srcCompat="@tools:sample/avatars"
+            android:contentDescription="@string/desckripsi_foto" />
+
+        <Button
+            android:id="@+id/btn_terima"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp"
+            android:text="@string/terima"
+            style="@style/base_button"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@+id/img_pending"
+            app:layout_constraintTop_toBottomOf="@+id/img_pending"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <Button
+            android:id="@+id/btn_tolak"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/tolak"
+            style="@style/base_button"
+            app:layout_constraintBottom_toBottomOf="@+id/btn_terima"
+            app:layout_constraintStart_toStartOf="@+id/img_pending"
+            app:layout_constraintTop_toTopOf="@+id/btn_terima" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

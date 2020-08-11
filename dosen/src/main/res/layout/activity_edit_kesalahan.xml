@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.EditKesalahanActivity">
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/img_tambah_kesalahan"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:src="@drawable/img_profile"
+        app:civ_border_color="@color/colorGray"
+        app:civ_border_width="1dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_nama_tambah_kesalahan"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        tools:text="Ramadansyah"
+        android:textColor="@color/colorBlack"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/img_tambah_kesalahan"
+        app:layout_constraintTop_toTopOf="@+id/img_tambah_kesalahan" />
+
+    <TextView
+        android:id="@+id/tv_nim_tambah_kesalahan"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        tools:text="6706174096"
+        android:textColor="@color/colorGray"
+        app:layout_constraintEnd_toEndOf="@+id/tv_nama_tambah_kesalahan"
+        app:layout_constraintStart_toStartOf="@+id/tv_nama_tambah_kesalahan"
+        app:layout_constraintTop_toBottomOf="@+id/tv_nama_tambah_kesalahan" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.2" />
+
+    <TextView
+        android:id="@+id/tv_title_kesalahan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="@string/kesalahan"
+        android:textColor="@color/colorBlack"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="@+id/img_tambah_kesalahan"
+        app:layout_constraintTop_toBottomOf="@+id/img_tambah_kesalahan" />
+
+    <EditText
+        android:id="@+id/et_ac"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_title_kesalahan" />
+
+    <TextView
+        android:id="@+id/tv_title_poin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/poin"
+        android:textColor="@color/colorBlack"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="@+id/et_ac"
+        app:layout_constraintTop_toBottomOf="@+id/et_ac" />
+
+    <EditText
+        android:id="@+id/et_poin_tambah_kesalahan"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:enabled="false"
+        android:inputType="number"
+        app:layout_constraintEnd_toEndOf="@+id/et_ac"
+        app:layout_constraintStart_toStartOf="@+id/et_ac"
+        app:layout_constraintTop_toBottomOf="@+id/tv_title_poin" />
+
+    <Button
+        android:id="@+id/btn_simpan_tambah_kesalahan"
+        style="@style/base_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/simpan"
+        app:layout_constraintEnd_toEndOf="@+id/et_poin_tambah_kesalahan"
+        app:layout_constraintTop_toBottomOf="@+id/et_poin_tambah_kesalahan" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_edit_kesalahan"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/background_white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/et_poin_tambah_kesalahan"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/et_ac"
+        tools:listitem="@layout/list_search" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

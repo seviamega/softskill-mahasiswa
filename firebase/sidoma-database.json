@@ -1,0 +1,1984 @@
+{
+  "DaftarKelas" : {
+    "4101" : {
+      "id" : "4101",
+      "kelas" : "D3IF-41-01"
+    },
+    "4102" : {
+      "id" : "4102",
+      "kelas" : "D3IF-41-02"
+    },
+    "4103" : {
+      "id" : "4103",
+      "kelas" : "D3IF-41-03"
+    },
+    "4104" : {
+      "id" : "4104",
+      "kelas" : "D3IF-41-04"
+    },
+    "4201" : {
+      "id" : "4201",
+      "kelas" : "D3IF-42-01"
+    },
+    "4202" : {
+      "id" : "4202",
+      "kelas" : "D3IF-42-02"
+    },
+    "4203" : {
+      "id" : "4203",
+      "kelas" : "D3IF-42-03"
+    },
+    "4204" : {
+      "id" : "4204",
+      "kelas" : "D3IF-42-04"
+    },
+    "4301" : {
+      "id" : "4301",
+      "kelas" : "D3IF-43-01"
+    },
+    "4302" : {
+      "id" : "4302",
+      "kelas" : "D3IF-43-02"
+    },
+    "4303" : {
+      "id" : "4303",
+      "kelas" : "D3IF-43-03"
+    },
+    "4304" : {
+      "id" : "4304",
+      "kelas" : "D3IF-43-04"
+    }
+  },
+  "DaftarKesalahan" : {
+    "-M612UV6kHK2-vVI5R73" : {
+      "id_kesalahan" : "-M612UV6kHK2-vVI5R73",
+      "kesalahan" : "Tidak mengerjakan tugas kelompok",
+      "poin_kesalahan" : "10",
+      "status" : "SoftSkillSatu"
+    },
+    "-MBJM1C-rOhrr_aam8lC" : {
+      "id_kesalahan" : "-MBJM1C-rOhrr_aam8lC",
+      "kesalahan" : "Merokok di area kampus",
+      "poin_kesalahan" : "100",
+      "status" : "SoftskillDua"
+    },
+    "-MBJMBEfP3TteyElFBWA" : {
+      "id_kesalahan" : "-MBJMBEfP3TteyElFBWA",
+      "kesalahan" : "Meninggalkan kelas saat KBM tanpa izin",
+      "poin_kesalahan" : "10",
+      "status" : "SoftskillTiga"
+    },
+    "-MBJMRzEkYWP5SyHfpWM" : {
+      "id_kesalahan" : "-MBJMRzEkYWP5SyHfpWM",
+      "kesalahan" : "Berpenampilan yang bertentangan dengan norma kesusilaan",
+      "poin_kesalahan" : "15",
+      "status" : "SoftskillEmpat"
+    },
+    "-MBJMVtwySW8e7ohhL8f" : {
+      "id_kesalahan" : "-MBJMVtwySW8e7ohhL8f",
+      "kesalahan" : "Menggunakan fasilitas staff dan dosen",
+      "poin_kesalahan" : "15",
+      "status" : "SoftskillLima"
+    },
+    "-MBJM_wiJiF3QIoLYP4Q" : {
+      "id_kesalahan" : "-MBJM_wiJiF3QIoLYP4Q",
+      "kesalahan" : "Mengotori sarana dan prasarana kampus",
+      "poin_kesalahan" : "15",
+      "status" : "SoftskillSatu"
+    },
+    "-MCrqEIA6G3CaVtTkCO1" : {
+      "id_kesalahan" : "-MCrqEIA6G3CaVtTkCO1",
+      "kesalahan" : "2",
+      "poin_kesalahan" : "3",
+      "status" : "SoftskillSatu"
+    },
+    "-MCzJt4tjY7vvcb8NGR0" : {
+      "id_kesalahan" : "-MCzJt4tjY7vvcb8NGR0",
+      "kesalahan" : "1",
+      "poin_kesalahan" : "2",
+      "status" : "SoftSkillLima"
+    },
+    "-MCzvKzEUZIhr9RVkli7" : {
+      "id_kesalahan" : "-MCzvKzEUZIhr9RVkli7",
+      "kesalahan" : "2",
+      "poin_kesalahan" : "3",
+      "status" : "SoftSkillSatu"
+    },
+    "-MDFF8M5Y84WclFtf5uw" : {
+      "id_kesalahan" : "-MDFF8M5Y84WclFtf5uw",
+      "kesalahan" : "Tidak mengikuti kerja kelompok",
+      "poin_kesalahan" : "10",
+      "status" : "SoftSkillSatu"
+    }
+  },
+  "Dosen" : {
+    "AAZ" : {
+      "email_dosen" : "alfian@tass.telkomuniversity.ac.id",
+      "foto_dosen" : "default",
+      "kode_dosen" : "AAZ",
+      "nama_dosen" : "Alfian Akbar Gozali",
+      "nip" : "15880069",
+      "no_telepon" : "85678493021",
+      "status" : "dosen"
+    },
+    "CAH" : {
+      "email_dosen" : "cahyana@tass.telkomuniversity.ac.id",
+      "foto_dosen" : "default",
+      "kode_dosen" : "CAH",
+      "nama_dosen" : "Cahyana, ST., M.Kom.",
+      "nip" : "14780039",
+      "no_telepon" : "85673829006",
+      "status" : "dosen"
+    },
+    "DAN" : {
+      "email_dosen" : "ananda@telkomuniversity.ac.id",
+      "foto_dosen" : "default",
+      "kode_dosen" : "DAN",
+      "nama_dosen" : "Dahliar Ananda, ST., MT.",
+      "nip" : "9820030",
+      "no_telepon" : "83476903321",
+      "status" : "dosen"
+    },
+    "DSN" : {
+      "email_dosen" : "dosen@tass.telkomuniversity.ac.id",
+      "foto_dosen" : "default",
+      "kode_dosen" : "DSN",
+      "nama_dosen" : "Bukan Dosen Wali",
+      "nip" : "10101010",
+      "no_telepon" : "0890230238",
+      "status" : "dosen"
+    },
+    "EGP" : {
+      "email_dosen" : "erda@tass.telkomuniversity.ac.id",
+      "foto_dosen" : "default",
+      "kode_dosen" : "EGP",
+      "nama_dosen" : "Erda Guslinar Perdana",
+      "nip" : "8840058",
+      "no_telepon" : "89578145876",
+      "status" : "dosen"
+    },
+    "FAU" : {
+      "email_dosen" : "amir_hf@tass.telkomuniversity.ac.id",
+      "foto_dosen" : "default",
+      "kode_dosen" : "FAU",
+      "nama_dosen" : "Amir Hasanudin Fauzi, ST., MT.",
+      "nip" : "14880088",
+      "no_telepon" : "82134908543",
+      "status" : "dosen"
+    },
+    "GBS" : {
+      "email_dosen" : "gbs@telkomuniversity.ac.id",
+      "foto_dosen" : "default",
+      "kode_dosen" : "GBS",
+      "nama_dosen" : "Gandeva Bayu Satrya, ST., MT., Ph.D.",
+      "nip" : "13850009",
+      "no_telepon" : "85679042859",
+      "status" : "dosen"
+    },
+    "HMU" : {
+      "email_dosen" : "hariandimaulid@tass.telkomuniversity.ac.id",
+      "foto_dosen" : "default",
+      "kode_dosen" : "HMU",
+      "nama_dosen" : "Hariandi Maulid, ST., M.Sc",
+      "nip" : "15780014",
+      "no_telepon" : "87653829001",
+      "status" : "dosen"
+    },
+    "HTT" : {
+      "email_dosen" : "hettihd@tass.telkomuniversity.ac.id",
+      "foto_dosen" : "https://firebasestorage.googleapis.com/v0/b/sidoma-dosen.appspot.com/o/images%2F1595458442379.jpg?alt=media&token=4e5d3ac5-5eab-4311-8ffa-3b067885b74e",
+      "kode_dosen" : "HTT",
+      "nama_dosen" : "Hetti Hidayati, S.Kom., MT.",
+      "nip" : "6750056",
+      "no_telepon" : "8564789031",
+      "status" : "dosen"
+    },
+    "IZM" : {
+      "email_dosen" : "indraazimi@tass.telkomuniversity.ac.id",
+      "foto_dosen" : "default",
+      "kode_dosen" : "IZM",
+      "nama_dosen" : "Indra Azimi, ST., MT.",
+      "nip" : "14870060",
+      "no_telepon" : "89764125439",
+      "status" : "dosen"
+    },
+    "KSW" : {
+      "email_dosen" : "raturatna@tass.telkomuniversity.ac.id",
+      "foto_dosen" : "default",
+      "kode_dosen" : "KSW",
+      "nama_dosen" : "Ratu Ratna Mulyati Karsiwi, Dra., MM.",
+      "nip" : "15560016",
+      "no_telepon" : "81267930283",
+      "status" : "dosen"
+    },
+    "MIA" : {
+      "email_dosen" : "mia@tass.telkomuniversity.ac.id",
+      "foto_dosen" : "default",
+      "kode_dosen" : "MIA",
+      "nama_dosen" : "Mia Rosmiati, S.Si., MT.",
+      "nip" : "14820012",
+      "no_telepon" : "85638201223",
+      "status" : "dosen"
+    },
+    "NPR" : {
+      "email_dosen" : "fathah@tass.telkomuniversity.ac.id",
+      "foto_dosen" : "default",
+      "kode_dosen" : "NPR",
+      "nama_dosen" : "Fat’hah Noor Prawita, ST., MT.",
+      "nip" : "14840024",
+      "no_telepon" : "88679503134",
+      "status" : "dosen"
+    },
+    "RBD" : {
+      "email_dosen" : "rbudiawan@tass.telkomuniversity.ac.id",
+      "foto_dosen" : "default",
+      "kode_dosen" : "RBD",
+      "nama_dosen" : "Reza Budiawan, S.T., M.T., OCA",
+      "nip" : "14880064",
+      "no_telepon" : "85646789003",
+      "status" : "dosen"
+    },
+    "RIM" : {
+      "email_dosen" : "rizza@tass.telkomuniversity.ac.id",
+      "foto_dosen" : "default",
+      "kode_dosen" : "RIM",
+      "nama_dosen" : "Rizza Indah Mega Mandasari, S.Kom., MT.",
+      "nip" : "15880031",
+      "no_telepon" : "82183684006",
+      "status" : "dosen"
+    },
+    "RWJ" : {
+      "email_dosen" : "rahmadi@tass.telkomuniversity.ac.id",
+      "foto_dosen" : "default",
+      "kode_dosen" : "RWJ",
+      "nama_dosen" : "Rahmadi Wijaya, S.Si., MT.",
+      "nip" : "17720068",
+      "no_telepon" : "89362871291",
+      "status" : "dosen"
+    },
+    "TBH" : {
+      "email_dosen" : "tribrotoharsono@tass.telkomuniversity.ac.id",
+      "foto_dosen" : "default",
+      "kode_dosen" : "TBH",
+      "nama_dosen" : "Tri Brotoharsono, ST., MT.",
+      "nip" : "94670025",
+      "no_telepon" : "89656473890",
+      "status" : "dosen"
+    }
+  },
+  "Kesalahan" : {
+    "-MCzlMSAxN9pcIMTM76T" : {
+      "deskripsi_kesalahan" : "Tidak mengerjakan tugas kelompok",
+      "foto_mhs" : "https://firebasestorage.googleapis.com/v0/b/sidoma-dosen.appspot.com/o/images%2F1595458538871.jpg?alt=media&token=9f8c4e05-dc57-4bf2-a99d-1c938213e859",
+      "id_dosen_wali" : "HTT",
+      "id_kesalahan" : "-MCzlMSAxN9pcIMTM76T",
+      "id_mahasiswa" : "6706174138",
+      "id_pengirim" : "IZM",
+      "nama_pelanggar" : "Ramadansyah",
+      "nama_pengirim" : "Indra Azimi, ST., MT.",
+      "pending_foto" : "default",
+      "poin_kesalahan" : "10",
+      "status" : "SoftskillSatu",
+      "waktu_pengiriman" : "2020-07-24 14:41:52"
+    },
+    "-MCzmIl__WS-XO0nc4i5" : {
+      "deskripsi_kesalahan" : "Tidak mengerjakan tugas kelompok",
+      "foto_mhs" : "https://firebasestorage.googleapis.com/v0/b/sidoma-dosen.appspot.com/o/images%2F1595458538871.jpg?alt=media&token=9f8c4e05-dc57-4bf2-a99d-1c938213e859",
+      "id_dosen_wali" : "HTT",
+      "id_kesalahan" : "-MCzmIl__WS-XO0nc4i5",
+      "id_mahasiswa" : "6706174138",
+      "id_pengirim" : "IZM",
+      "nama_pelanggar" : "Ramadansyah",
+      "nama_pengirim" : "Indra Azimi, ST., MT.",
+      "pending_foto" : "default",
+      "poin_kesalahan" : "10",
+      "status" : "SoftskillSatu",
+      "waktu_pengiriman" : "2020-07-24 14:45:59"
+    },
+    "-MCzmOq7oQEXaBsnE-Da" : {
+      "deskripsi_kesalahan" : "Tidak mengerjakan tugas kelompok",
+      "foto_mhs" : "default",
+      "id_dosen_wali" : "IZM",
+      "id_kesalahan" : "-MCzmOq7oQEXaBsnE-Da",
+      "id_mahasiswa" : "6706170026",
+      "id_pengirim" : "HTT",
+      "nama_pelanggar" : "Ni Made Ria Rolina",
+      "nama_pengirim" : "Hetti Hidayati, S.Kom., MT.",
+      "pending_foto" : "default",
+      "poin_kesalahan" : "10",
+      "status" : "SoftskillSatu",
+      "waktu_pengiriman" : "2020-07-24 14:46:31"
+    }
+  },
+  "Mahasiswa" : {
+    "6706170009" : {
+      "email_mhs" : "thaliaveronica@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "NPR",
+      "nama_mhs" : "Thalia Veronica",
+      "nim" : "6706170009",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706170011" : {
+      "email_mhs" : "marialaurensia@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Maria Laurensia Averine",
+      "nim" : "6706170011",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 90
+    },
+    "6706170016" : {
+      "email_mhs" : "elsajelista@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "RWJ",
+      "nama_mhs" : "Elsa Jelista Sari",
+      "nim" : "6706170016",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706170020" : {
+      "email_mhs" : "rienaagustina@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "NPR",
+      "nama_mhs" : "Riena Agustina Praja",
+      "nim" : "6706170020",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706170026" : {
+      "email_mhs" : "nimaderiarolina@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "IZM",
+      "nama_mhs" : "Ni Made Ria Rolina",
+      "nim" : "6706170026",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 90
+    },
+    "6706170027" : {
+      "email_mhs" : "sufiatmi@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "NPR",
+      "nama_mhs" : "Sufiatmi",
+      "nim" : "6706170027",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706170028" : {
+      "email_mhs" : "zakariawahyu@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "NPR",
+      "nama_mhs" : "Zakaria Wahyu Nur Utomo",
+      "nim" : "6706170028",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706170038" : {
+      "email_mhs" : "dheaardina@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "IZM",
+      "nama_mhs" : "Dhea Ardina",
+      "nim" : "6706170038",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706170047" : {
+      "email_mhs" : "itawulansari@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "IZM",
+      "nama_mhs" : "Ita Wulansari",
+      "nim" : "6706170047",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706170048" : {
+      "email_mhs" : "dewiastriani@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "NPR",
+      "nama_mhs" : "Dewi Astriani",
+      "nim" : "6706170048",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706170050" : {
+      "email_mhs" : "yogaafrizal@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Yoga Afrizal Riandika",
+      "nim" : "6706170050",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 90
+    },
+    "6706170052" : {
+      "email_mhs" : "artika@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "RWJ",
+      "nama_mhs" : "Artika",
+      "nim" : "6706170052",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706170054" : {
+      "email_mhs" : "nurmuhammadluthfi@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "IZM",
+      "nama_mhs" : "Nur Muhammad Luthfi",
+      "nim" : "6706170054",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706170065" : {
+      "email_mhs" : "esaputra@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "IZM",
+      "nama_mhs" : "Esa Putra Mochamad Dally",
+      "nim" : "6706170065",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706170066" : {
+      "email_mhs" : "muhammadjuldan@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "NPR",
+      "nama_mhs" : "Muhammad Juldan Naufal",
+      "nim" : "6706170066",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706170075" : {
+      "email_mhs" : "leonardoadista@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Leonardo Adista Pratama",
+      "nim" : "6706170075",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706170077" : {
+      "email_mhs" : "yulioferdinand@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "IZM",
+      "nama_mhs" : "Yulio Ferdinand",
+      "nim" : "6706170077",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706170085" : {
+      "email_mhs" : "hariswedira@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "FAU",
+      "nama_mhs" : "Haris Wedira",
+      "nim" : "6706170085",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706170086" : {
+      "email_mhs" : "muhammadhisyam@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "IZM",
+      "nama_mhs" : "Muhammad Hisyam Fadhil",
+      "nim" : "6706170086",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706170087" : {
+      "email_mhs" : "rizkyasep@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Rizky Asep Sutrisna",
+      "nim" : "6706170087",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706170088" : {
+      "email_mhs" : "raisulmuhalani@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Raisul Muhalani",
+      "nim" : "6706170088",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706170089" : {
+      "email_mhs" : "fathihadawi@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "FAU",
+      "nama_mhs" : "Fathih Adawi Ahmad",
+      "nim" : "6706170089",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706170090" : {
+      "email_mhs" : "muhammadikhwanul@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "IZM",
+      "nama_mhs" : "Muhammad Ikhwanul Kirom",
+      "nim" : "6706170090",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706170093" : {
+      "email_mhs" : "anangmaulana@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "FAU",
+      "nama_mhs" : "Anang Maulana Prakarsa",
+      "nim" : "6706170093",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706170094" : {
+      "email_mhs" : "renaldimaulana@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "IZM",
+      "nama_mhs" : "Renaldi Maulana Yusuf",
+      "nim" : "6706170094",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706170096" : {
+      "email_mhs" : "oxyrokhmad@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Oxy Rokhmad Sadewo",
+      "nim" : "6706170096",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706170099" : {
+      "email_mhs" : "milzamdwi@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Milzam Dwi Kirana Setiajati",
+      "nim" : "6706170099",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706170110" : {
+      "email_mhs" : "muhammadluthfi@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Muhammad Luthfi Maulana Simamora",
+      "nim" : "6706170110",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706170113" : {
+      "email_mhs" : "panjisujadmiko@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "FAU",
+      "nama_mhs" : "Muhamad Panji Sujadmiko Utomo",
+      "nim" : "6706170113",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706170114" : {
+      "email_mhs" : "tambahrizki@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "IZM",
+      "nama_mhs" : "Tambah Rizki Muhammad",
+      "nim" : "6706170114",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706170115" : {
+      "email_mhs" : "norehidayat@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "M Noer Hidayat",
+      "nim" : "6706170115",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706170121" : {
+      "email_mhs" : "imademuliana@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "FAU",
+      "nama_mhs" : "I Made Muliana Nugraha",
+      "nim" : "6706170121",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706170127" : {
+      "email_mhs" : "amienjafar@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "IZM",
+      "nama_mhs" : "Amien Jafar Makrufi",
+      "nim" : "6706170127",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706170133" : {
+      "email_mhs" : "dimasrayhan@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Dimas Rayhan Achmad Fadhillah",
+      "nim" : "6706170133",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706170135" : {
+      "email_mhs" : "yusrilananda@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "IZM",
+      "nama_mhs" : "Muhamad Yusril Ananda",
+      "nim" : "6706170135",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706171018" : {
+      "email_mhs" : "nindyharis@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "IZM",
+      "nama_mhs" : "Nindy Haris Putri",
+      "nim" : "6706171018",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706171025" : {
+      "email_mhs" : "yusriyusron@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "IZM",
+      "nama_mhs" : "Yusri Yusron Nur Yusuf Alkautsar",
+      "nim" : "6706171025",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706171049" : {
+      "email_mhs" : "arifanurhasanah@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Arifa Nur Hasanah",
+      "nim" : "6706171049",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706171080" : {
+      "email_mhs" : "dedirahmansyah@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "RWJ",
+      "nama_mhs" : "Dedi Rahmansah",
+      "nim" : "6706171080",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706171083" : {
+      "email_mhs" : "febidahlan@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "IZM",
+      "nama_mhs" : "Feby Dahlan",
+      "nim" : "6706171083",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706171092" : {
+      "email_mhs" : "agusnurichsan@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Agus Nur Ichsan",
+      "nim" : "6706171092",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706171100" : {
+      "email_mhs" : "zaharaputri@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Zahara Putri",
+      "nim" : "6706171100",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706171102" : {
+      "email_mhs" : "rimazakiyatin@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Rima Zakiyatin Arifah",
+      "nim" : "6706171102",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706172106" : {
+      "email_mhs" : "adereskita@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Ade Reskita",
+      "nim" : "6706172106",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706172140" : {
+      "email_mhs" : "muhammadfauzi@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "IZM",
+      "nama_mhs" : "Muhammad Fauzi Wizana",
+      "nim" : "6706172140",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174001" : {
+      "email_mhs" : "fadlihidayatullah@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Fadli Hidayatullah",
+      "nim" : "6706174001",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174002" : {
+      "email_mhs" : "maharaniyuniar@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Maharani Yuniar",
+      "nim" : "6706174002",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174003" : {
+      "email_mhs" : "septyrahmadilha@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "IZM",
+      "nama_mhs" : "Septy Rahmadilha Iqmawan",
+      "nim" : "6706174003",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174004" : {
+      "email_mhs" : "farhanhaq@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "RWJ",
+      "nama_mhs" : "Farhan Haq",
+      "nim" : "6706174004",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174005" : {
+      "email_mhs" : "andrewirfan@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "MIA",
+      "nama_mhs" : "Andrew Irvan Simaremare",
+      "nim" : "6706174005",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174007" : {
+      "email_mhs" : "ivansheva@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "NPR",
+      "nama_mhs" : "Ivan Sheva Muhammad Firdaus",
+      "nim" : "6706174007",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174008" : {
+      "email_mhs" : "aldyberlianang@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Aldy Berlianang Putranami",
+      "nim" : "6706174008",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174010" : {
+      "email_mhs" : "hibbanramadhan@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "IZM",
+      "nama_mhs" : "Muhammad Hibban Ramadhan",
+      "nim" : "6706174010",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174012" : {
+      "email_mhs" : "katsirhamdana@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "IZM",
+      "nama_mhs" : "M Katsir Hamdana",
+      "nim" : "6706174012",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174013" : {
+      "email_mhs" : "rinaldijasmi@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "NPR",
+      "nama_mhs" : "Rinaldi Jasmi",
+      "nim" : "6706174013",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174014" : {
+      "email_mhs" : "syarifatulaisyiyah@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "IZM",
+      "nama_mhs" : "Syarifatul Aisyiyah",
+      "nim" : "6706174014",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174015" : {
+      "email_mhs" : "ceptharinigtyas@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "IZM",
+      "nama_mhs" : "Cepthari Ningtyas Arba`Atun",
+      "nim" : "6706174015",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174017" : {
+      "email_mhs" : "kamilahsari@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Kamilah Sari Fauziyah",
+      "nim" : "6706174017",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174019" : {
+      "email_mhs" : "athiyyatulfarhanah@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "RWJ",
+      "nama_mhs" : "Athiyyatul Farhanah",
+      "nim" : "6706174019",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174021" : {
+      "email_mhs" : "hendysetyawan@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Hendy Setyawan",
+      "nim" : "6706174021",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174022" : {
+      "email_mhs" : "elzamelania@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Elza Melania Pradina",
+      "nim" : "6706174022",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174023" : {
+      "email_mhs" : "ahmadfadilfatan@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "RIM",
+      "nama_mhs" : "Ahmad Fadil Fatan",
+      "nim" : "6706174023",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174024" : {
+      "email_mhs" : "connytria@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "RIM",
+      "nama_mhs" : "Conny Tria Shafira",
+      "nim" : "6706174024",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174029" : {
+      "email_mhs" : "alfajri@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Alfajri",
+      "nim" : "6706174029",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174030" : {
+      "email_mhs" : "seviamegakusuma@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Sevia Mega Kusuma Fatimatus Sholehha",
+      "nim" : "6706174030",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 90
+    },
+    "6706174031" : {
+      "email_mhs" : "radhityakurnia@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "RIM",
+      "nama_mhs" : "Radhitya Kurnia Wijaya",
+      "nim" : "6706174031",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174032" : {
+      "email_mhs" : "huznulabdi@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "IZM",
+      "nama_mhs" : "Huznul Abdi",
+      "nim" : "6706174032",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174033" : {
+      "email_mhs" : "fikrifirdaus@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "NPR",
+      "nama_mhs" : "Muhammad Fikri Firdaus",
+      "nim" : "6706174033",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174034" : {
+      "email_mhs" : "rahmatmulya@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Rahmat Mulya Simanjuntak",
+      "nim" : "6706174034",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174035" : {
+      "email_mhs" : "hizkiatupa@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "RIM",
+      "nama_mhs" : "Hizkia Tupa Christianto Sihombing",
+      "nim" : "6706174035",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174036" : {
+      "email_mhs" : "alifmuharram@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "IZM",
+      "nama_mhs" : "M. Alif Muharram Hamzah",
+      "nim" : "6706174036",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174037" : {
+      "email_mhs" : "tengkubelmiro@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "NPR",
+      "nama_mhs" : "Tengku Belmiro Ramadhani",
+      "nim" : "6706174037",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174039" : {
+      "email_mhs" : "richardochristian@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Richardo Christian Paskalis",
+      "nim" : "6706174039",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174040" : {
+      "email_mhs" : "nabilacaesarani@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "IZM",
+      "nama_mhs" : "Nabila Caesarani Putri Alamsyah",
+      "nim" : "6706174040",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174041" : {
+      "email_mhs" : "ferdhyananda@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "RIM",
+      "nama_mhs" : "Muhammad Ferdhy Ananda",
+      "nim" : "6706174041",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174042" : {
+      "email_mhs" : "andrimarwan@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "MIA",
+      "nama_mhs" : "Andri Marwan Tua Silalahi",
+      "nim" : "6706174042",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174043" : {
+      "email_mhs" : "erbinaselvia@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "NPR",
+      "nama_mhs" : "Erbina Selvia Br. Perangin-Angin",
+      "nim" : "6706174043",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174044" : {
+      "email_mhs" : "larasnurhayatunnufus@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Laras Nurhayatunnufus",
+      "nim" : "6706174044",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174045" : {
+      "email_mhs" : "salsabilaanza@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "RIM",
+      "nama_mhs" : "Salsabila Anza Salasa",
+      "nim" : "6706174045",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174046" : {
+      "email_mhs" : "fauzirizali@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "NPR",
+      "nama_mhs" : "Fauzi Rizali Akbar",
+      "nim" : "6706174046",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174051" : {
+      "email_mhs" : "devanipaundrianagari@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "RIM",
+      "nama_mhs" : "Devani Paundrianagari Nairda",
+      "nim" : "6706174051",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174053" : {
+      "email_mhs" : "lisamareta@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "NPR",
+      "nama_mhs" : "Lisa Mareta",
+      "nim" : "6706174053",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174055" : {
+      "email_mhs" : "shobalubis@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "IZM",
+      "nama_mhs" : "Shoba Lubis Shokhikhi",
+      "nim" : "6706174055",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174056" : {
+      "email_mhs" : "nathanaelfitzgerald@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "NPR",
+      "nama_mhs" : "Nathanael Fitzgerald",
+      "nim" : "6706174056",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174057" : {
+      "email_mhs" : "nabilahridhanti@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Nabilah Ridhanti Zikra",
+      "nim" : "6706174057",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174058" : {
+      "email_mhs" : "ahmadtaufiqhidayat@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Ahmad Taufiq Hidayat",
+      "nim" : "6706174058",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174059" : {
+      "email_mhs" : "fajarjabarudin@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "RIM",
+      "nama_mhs" : "Fajar Jabaruddin",
+      "nim" : "6706174059",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174060" : {
+      "email_mhs" : "ghinadofira@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "RIM",
+      "nama_mhs" : "Ghina Dofira",
+      "nim" : "6706174060",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174061" : {
+      "email_mhs" : "daffajuliano@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "IZM",
+      "nama_mhs" : "Moch Daffa Juliano Fahrillah",
+      "nim" : "6706174061",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174062" : {
+      "email_mhs" : "rizalulfikri@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "NPR",
+      "nama_mhs" : "Mohammad Rizalul Fikri",
+      "nim" : "6706174062",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174063" : {
+      "email_mhs" : "ikadeksumendra@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "I Kadek Sumendra",
+      "nim" : "6706174063",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174064" : {
+      "email_mhs" : "rakadaffa@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "RIM",
+      "nama_mhs" : "Raka Daffa Arrival",
+      "nim" : "6706174064",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174069" : {
+      "email_mhs" : "rizkynurcahyana@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "IZM",
+      "nama_mhs" : "Rizky Nur Cahyana",
+      "nim" : "6706174069",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174070" : {
+      "email_mhs" : "farisabdussalam@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "NPR",
+      "nama_mhs" : "Muhammad Faris Abdussalam",
+      "nim" : "6706174070",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174071" : {
+      "email_mhs" : "baskoroadiwicaksono@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Baskoro Adi Wicaksono",
+      "nim" : "6706174071",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174072" : {
+      "email_mhs" : "ridloyanuar@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "FAU",
+      "nama_mhs" : "Ridlo Yanuar",
+      "nim" : "6706174072",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174073" : {
+      "email_mhs" : "ariwibowo@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "MIA",
+      "nama_mhs" : "Ari Wibowo",
+      "nim" : "6706174073",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174074" : {
+      "email_mhs" : "nurapriyanto@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Nur Apriyanto",
+      "nim" : "6706174074",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174076" : {
+      "email_mhs" : "dikiwahyudi@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "FAU",
+      "nama_mhs" : "Diki Wahyudi",
+      "nim" : "6706174076",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174078" : {
+      "email_mhs" : "reynaldiprama@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Reynaldi Prama Octavially",
+      "nim" : "6706174078",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174079" : {
+      "email_mhs" : "daniszaidan@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Danis Zaidan",
+      "nim" : "6706174079",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174081" : {
+      "email_mhs" : "andreaspakpahan@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "MIA",
+      "nama_mhs" : "Andreas Pakpahan",
+      "nim" : "6706174081",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174084" : {
+      "email_mhs" : "muhammadponcut@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Muhammad Poncut Ridha",
+      "nim" : "6706174084",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174091" : {
+      "email_mhs" : "alanhamdani@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Alan Hamdani",
+      "nim" : "6706174091",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174095" : {
+      "email_mhs" : "vincentjonathan@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "HMU",
+      "nama_mhs" : "Vincent Jonathan",
+      "nim" : "6706174095",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174097" : {
+      "email_mhs" : "diffoelza@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "FAU",
+      "nama_mhs" : "Diffo Elza Pratama",
+      "nim" : "6706174097",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174098" : {
+      "email_mhs" : "aldisaragih@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "IZM",
+      "nama_mhs" : "Aldi Wahyu Saragih",
+      "nim" : "6706174098",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174101" : {
+      "email_mhs" : "andika@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Andika",
+      "nim" : "6706174101",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174103" : {
+      "email_mhs" : "dwikilazzaro@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "FAU",
+      "nama_mhs" : "Dwiki Lazzaro",
+      "nim" : "6706174103",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174104" : {
+      "email_mhs" : "bayuajiprakoso@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "RWJ",
+      "nama_mhs" : "Bayu Aji Prakoso",
+      "nim" : "6706174104",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174105" : {
+      "email_mhs" : "taufanakbar@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "HMU",
+      "nama_mhs" : "Taufan Akbar Aprialdo Daulay",
+      "nim" : "6706174105",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174107" : {
+      "email_mhs" : "wisnualmi@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "FAU",
+      "nama_mhs" : "Wisnu Almi Pradya Sa'bani",
+      "nim" : "6706174107",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174108" : {
+      "email_mhs" : "fenifebriani@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "FAU",
+      "nama_mhs" : "Feni Febriani",
+      "nim" : "6706174108",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174109" : {
+      "email_mhs" : "muhammadpanji@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "IZM",
+      "nama_mhs" : "Muhammad Panji Reza Pahlevi",
+      "nim" : "6706174109",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174111" : {
+      "email_mhs" : "devianarahmadhani@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "RWJ",
+      "nama_mhs" : "Deviana Rahmadhani Sofyan",
+      "nim" : "6706174111",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174112" : {
+      "email_mhs" : "rahmattobihidayat@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Rahmat Tobi Hidayat",
+      "nim" : "6706174112",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174117" : {
+      "email_mhs" : "agungsetiawan@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "FAU",
+      "nama_mhs" : "Agung Setiawan Syam",
+      "nim" : "6706174117",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174118" : {
+      "email_mhs" : "bahrulbangsawan@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "RWJ",
+      "nama_mhs" : "Bahrul Bangsawan",
+      "nim" : "6706174118",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174119" : {
+      "email_mhs" : "ridhorenaldo@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "HMU",
+      "nama_mhs" : "Ridho Renaldo Barus",
+      "nim" : "6706174119",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174120" : {
+      "email_mhs" : "ahmadzaeni@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Ahmad Zaeni",
+      "nim" : "6706174120",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174123" : {
+      "email_mhs" : "taniaangelina@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "HMU",
+      "nama_mhs" : "Tania Angelina Hutajulu",
+      "nim" : "6706174123",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174124" : {
+      "email_mhs" : "rahmadhidayat@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "HMU",
+      "nama_mhs" : "Rahmad Hidayat Tambunan",
+      "nim" : "6706174124",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174125" : {
+      "email_mhs" : "fajarsatyasanjaya@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Fajar Satya Sanjaya",
+      "nim" : "6706174125",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174126" : {
+      "email_mhs" : "rizwanramadhan@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "FAU",
+      "nama_mhs" : "Rizwan Ramadhan",
+      "nim" : "6706174126",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174128" : {
+      "email_mhs" : "jeivseptian@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "HMU",
+      "nama_mhs" : "Jeiv Septian Rahmatullah",
+      "nim" : "6706174128",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174129" : {
+      "email_mhs" : "muhammadhabli@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Muhammad Habli",
+      "nim" : "6706174129",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174130" : {
+      "email_mhs" : "yogawidhi@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "FAU",
+      "nama_mhs" : "Yoga Widhi Kurnia",
+      "nim" : "6706174130",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174131" : {
+      "email_mhs" : "restubayuaji@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4103",
+      "kode_dosen" : "IZM",
+      "nama_mhs" : "Restu Bayu Aji",
+      "nim" : "6706174131",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174132" : {
+      "email_mhs" : "fiqrychoerudin@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "HMU",
+      "nama_mhs" : "Fiqry Choerudin",
+      "nim" : "6706174132",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174134" : {
+      "email_mhs" : "muhammadyusuf@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4102",
+      "kode_dosen" : "FAU",
+      "nama_mhs" : "Muhammad Yusuf Firdaus",
+      "nim" : "6706174134",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174136" : {
+      "email_mhs" : "sakinahfitri@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Sakinah Fitri",
+      "nim" : "6706174136",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174137" : {
+      "email_mhs" : "richofedhia@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4104",
+      "kode_dosen" : "HMU",
+      "nama_mhs" : "Richo Fedhia Saldhi",
+      "nim" : "6706174137",
+      "no_telepon" : "089656499201",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706174138" : {
+      "email_mhs" : "ramadansyah@student.telkomuniversity.ac.id",
+      "foto_mhs" : "https://firebasestorage.googleapis.com/v0/b/sidoma-dosen.appspot.com/o/images%2F1595458538871.jpg?alt=media&token=9f8c4e05-dc57-4bf2-a99d-1c938213e859",
+      "kelas" : "4101",
+      "kode_dosen" : "HTT",
+      "nama_mhs" : "Ramadansyah",
+      "nim" : "6706174138",
+      "no_telepon" : "08965649921",
+      "status" : "mahasiswa",
+      "total_poin" : 80
+    },
+    "6706183324" : {
+      "email_mhs" : "fikri@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4201",
+      "kode_dosen" : "CAH",
+      "nama_mhs" : "Fikri Pratama",
+      "nim" : "6706183324",
+      "no_telepon" : "089456378516",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706183525" : {
+      "email_mhs" : "rafli@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4202",
+      "kode_dosen" : "CAH",
+      "nama_mhs" : "Muhammad Rafli Naufal",
+      "nim" : "6706183525",
+      "no_telepon" : "085647019827",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706183929" : {
+      "email_mhs" : "zaki@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4202",
+      "kode_dosen" : "CAH",
+      "nama_mhs" : "Muhammad Zaki Alkhairi",
+      "nim" : "6706183929",
+      "no_telepon" : "083982017113",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706184028" : {
+      "email_mhs" : "vironika@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4203",
+      "kode_dosen" : "CAH",
+      "nama_mhs" : "Vironika Ayuningtyas",
+      "nim" : "6706184028",
+      "no_telepon" : "083789102876",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706184030" : {
+      "email_mhs" : "alfareza@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4201",
+      "kode_dosen" : "CAH",
+      "nama_mhs" : "Transylvonia Alfareza",
+      "nim" : "6706184030",
+      "no_telepon" : "082679180766",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706184128" : {
+      "email_mhs" : "annisa@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4204",
+      "kode_dosen" : "MIA",
+      "nama_mhs" : "Annisa Fauziyah",
+      "nim" : "6706184128",
+      "no_telepon" : "082178647928",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706184130" : {
+      "email_mhs" : "virashara@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4203",
+      "kode_dosen" : "CAH",
+      "nama_mhs" : "Vira Shara",
+      "nim" : "6706184130",
+      "no_telepon" : "089092827918",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706184242" : {
+      "email_mhs" : "dindaan@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4204",
+      "kode_dosen" : "MIA",
+      "nama_mhs" : "Dinda Anugraheni",
+      "nim" : "6706184242",
+      "no_telepon" : "085647893178",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706190011" : {
+      "email_mhs" : "bagusan@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4302",
+      "kode_dosen" : "MIA",
+      "nama_mhs" : "Andika Bagus",
+      "nim" : "6706190011",
+      "no_telepon" : "089230327892",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706193021" : {
+      "email_mhs" : "laras@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4301",
+      "kode_dosen" : "MIA",
+      "nama_mhs" : "Laras Nurahayatunufus",
+      "nim" : "6706193021",
+      "no_telepon" : "087298346282",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706193678" : {
+      "email_mhs" : "yudistira@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4303",
+      "kode_dosen" : "RIM",
+      "nama_mhs" : "Yudistira",
+      "nim" : "6706193678",
+      "no_telepon" : "086382730130",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706194327" : {
+      "email_mhs" : "aldopratama@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4301",
+      "kode_dosen" : "MIA",
+      "nama_mhs" : "Aldo Pratama",
+      "nim" : "6706194327",
+      "no_telepon" : "087653920729",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706194457" : {
+      "email_mhs" : "putrinabila@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4303",
+      "kode_dosen" : "RIM",
+      "nama_mhs" : "Nabila Putri",
+      "nim" : "6706194457",
+      "no_telepon" : "089248242983",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706196473" : {
+      "email_mhs" : "prasetya@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4304",
+      "kode_dosen" : "RIM",
+      "nama_mhs" : "Prasetya Kumara",
+      "nim" : "6706196473",
+      "no_telepon" : "085648292093",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706196547" : {
+      "email_mhs" : "salsabilla@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4302",
+      "kode_dosen" : "CAH",
+      "nama_mhs" : "Salsabilla Adriani",
+      "nim" : "6706196547",
+      "no_telepon" : "089236288328",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    },
+    "6706196573" : {
+      "email_mhs" : "bimaandanda@student.telkomuniversity.ac.id",
+      "foto_mhs" : "default",
+      "kelas" : "4304",
+      "kode_dosen" : "RIM",
+      "nama_mhs" : "Bima Ananda",
+      "nim" : "6706196573",
+      "no_telepon" : "083087393432",
+      "status" : "mahasiswa",
+      "total_poin" : 100
+    }
+  },
+  "SoftSkill" : {
+    "SoftskillDua" : {
+      "id_softskill" : "SoftskillDua",
+      "nama_softskill" : "Komunikasi Verbal"
+    },
+    "SoftskillEmpat" : {
+      "id_softskill" : "SoftskillEmpat",
+      "nama_softskill" : "Kemampuan Memperoleh Dan Mengelola Informasi"
+    },
+    "SoftskillLima" : {
+      "id_softskill" : "SoftskillLima",
+      "nama_softskill" : "Kemampuan Untuk Membuat Rencana Dan Prioritas"
+    },
+    "SoftskillSatu" : {
+      "id_softskill" : "SoftskillSatu",
+      "nama_softskill" : "Kemampuan Bekerja Dalam Tim"
+    },
+    "SoftskillTiga" : {
+      "id_softskill" : "SoftskillTiga",
+      "nama_softskill" : "Kemampuan Memecahkan Masalah"
+    }
+  },
+  "Tokens" : {
+    "HTT" : {
+      "token" : "cOvWexzKSaCQHrEbh3PDpR:APA91bFCP65OC6qFajS0B-8c9x6iGYboIZrzi2EZk1R6YJtzyeN9-gJ2Vb_M9qH4ktriXBGfHEiWe41ewARIGKvf21rFIcJyuhs80eBF7n6CwPue-Q1YeKEECYyfhFhs0Rfn5b3CaQ_w"
+    },
+    "IZM" : {
+      "token" : "enyOdSHURz-Tp-rOAaROVC:APA91bEaKw6z_4k_mjbQyyU5V8uGV97J4NfUpa9GANk4gqofp9Z2sVtGCYVB-6i3czs4JdbySLLG_3-rOrIsqM5Aqt4faK5KIOyxPqcV9b0D_6skCGPd09ptGW4rA-1xJLD4oyrtjIzO"
+    }
+  }
+}

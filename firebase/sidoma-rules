@@ -1,0 +1,11 @@
+{
+  "rules": {
+    ".read": "auth.token.email.matches(/.*.telkomuniversity.ac.id$/)",
+         ".write": "auth.token.email.matches(/.*.telkomuniversity.ac.id/)"
+    ,
+      "Mahasiswa":{
+      ".read": "true",
+         ".write": "true"
+    }
+}
+}
