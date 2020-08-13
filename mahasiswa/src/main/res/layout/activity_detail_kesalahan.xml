@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.DetailKesalahanActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/img_detail_mhs"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:src="@drawable/img_profile"
+            app:civ_border_color="@color/colorGray"
+            app:civ_border_width="1dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/tv_nama_detail_mhs"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            tools:text="Sevia Mega Kusuma"
+            android:textColor="@color/colorBlack"
+            android:textSize="18sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/img_detail_mhs"
+            app:layout_constraintTop_toTopOf="@+id/img_detail_mhs" />
+
+        <TextView
+            android:id="@+id/tv_nim_detail_mhs"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            tools:text="6706174030"
+            android:textColor="@color/colorGray"
+            app:layout_constraintEnd_toEndOf="@+id/tv_nama_detail_mhs"
+            app:layout_constraintStart_toStartOf="@+id/tv_nama_detail_mhs"
+            app:layout_constraintTop_toBottomOf="@+id/tv_nama_detail_mhs" />
+
+        <TextView
+            android:id="@+id/tv_waktu_detail_mhs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            tools:text="20 Juni 2020. 13:00"
+            android:textColor="@color/colorBlack"
+            app:layout_constraintStart_toStartOf="@+id/img_detail_mhs"
+            app:layout_constraintTop_toTopOf="@+id/guideline_detail_mhs" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guideline_detail_mhs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintGuide_percent="0.30" />
+
+        <TextView
+            android:id="@+id/tv_desk_detail_mhs"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            tools:text="Sevia terlambat masuk kelas saat mata kuliah mobpro"
+            android:textAlignment="viewStart"
+            android:textAllCaps="false"
+            android:textSize="16sp"
+            app:layout_constraintEnd_toEndOf="@+id/tv_nim_detail_mhs"
+            app:layout_constraintStart_toStartOf="@+id/dikirim_oleh"
+            app:layout_constraintTop_toBottomOf="@+id/poin_detail_mhs" />
+
+        <TextView
+            android:id="@+id/poin_detail_mhs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@string/poin"
+            app:layout_constraintStart_toStartOf="@+id/tv_pengirim_detail_mhs"
+            app:layout_constraintTop_toBottomOf="@+id/tv_pengirim_detail_mhs" />
+
+        <TextView
+            android:id="@+id/tv_poin_detail_mhs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="24dp"
+            tools:text="50"
+            android:textColor="@color/colorPrimary"
+            app:layout_constraintBottom_toBottomOf="@+id/poin_detail_mhs"
+            app:layout_constraintStart_toEndOf="@+id/poin_detail_mhs"
+            app:layout_constraintTop_toTopOf="@+id/poin_detail_mhs" />
+
+        <TextView
+            android:id="@+id/dikirim_oleh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="@string/dikirim"
+            app:layout_constraintStart_toStartOf="@+id/tv_waktu_detail_mhs"
+            app:layout_constraintTop_toBottomOf="@+id/tv_waktu_detail_mhs" />
+
+        <TextView
+            android:id="@+id/tv_pengirim_detail_mhs"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            tools:text="Hetti Hidayati, S.Kom., MT."
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/tv_desk_detail_mhs"
+            app:layout_constraintStart_toStartOf="@+id/dikirim_oleh"
+            app:layout_constraintTop_toBottomOf="@+id/dikirim_oleh" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

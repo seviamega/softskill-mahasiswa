@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_marginBottom="8dp"
+    android:layout_marginStart="16dp"
+    android:layout_marginEnd="16dp"
+    style="@style/base_card_view"
+    android:layout_height="wrap_content">
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/background_red"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_desk_list_kesalahan"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:singleLine="true"
+        tools:text="Sevia terlambat masuk kelas"
+        android:textColor="@color/colorBlack"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/view"
+        app:layout_constraintTop_toTopOf="@+id/view" />
+
+    <TextView
+        android:id="@+id/tv_pengirim_list_kesalahan"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        tools:text="dikirim oleh Hetti Hidayati, S.Kom., MT"
+        android:textColor="@color/colorGray"
+        app:layout_constraintEnd_toEndOf="@+id/tv_desk_list_kesalahan"
+        app:layout_constraintStart_toStartOf="@+id/tv_desk_list_kesalahan"
+        app:layout_constraintTop_toBottomOf="@+id/tv_desk_list_kesalahan" />
+
+    <TextView
+        android:id="@+id/tv_waktu_list_kesalahan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="16dp"
+        tools:text="20 Juni 2020. 13:00"
+        android:textColor="@color/colorBlack"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/tv_desk_list_kesalahan"
+        app:layout_constraintTop_toBottomOf="@+id/tv_pengirim_list_kesalahan" />
+
+    <TextView
+        android:id="@+id/tv_poin_list_kesalahan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="50"
+        android:textColor="@color/colorWhite"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/tv_pengirim_list_kesalahan"
+        app:layout_constraintEnd_toEndOf="@+id/view"
+        app:layout_constraintStart_toStartOf="@+id/view"
+        app:layout_constraintTop_toTopOf="@+id/view" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/poin"
+        android:textColor="@color/colorWhite"
+        app:layout_constraintEnd_toEndOf="@+id/tv_poin_list_kesalahan"
+        app:layout_constraintStart_toStartOf="@+id/tv_poin_list_kesalahan"
+        app:layout_constraintTop_toBottomOf="@+id/tv_poin_list_kesalahan" />
+</androidx.constraintlayout.widget.ConstraintLayout>

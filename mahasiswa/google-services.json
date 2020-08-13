@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "307370909968",
+    "firebase_url": "https://sidoma-dosen.firebaseio.com",
+    "project_id": "sidoma-dosen",
+    "storage_bucket": "sidoma-dosen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307370909968:android:bb4c35ca221f57b1858595",
+        "android_client_info": {
+          "package_name": "com.sidomafit.dosen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307370909968-ogjpgj3ebc82v5q3nn1687qk8doju778.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sidomafit.dosen",
+            "certificate_hash": "4e255dede5103c2ec3597bd0d75be32f42347e70"
+          }
+        },
+        {
+          "client_id": "307370909968-hk9rdpepgkfd4t250tgk715b5bd7bod7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Jplo1JO6miNR2Q9KSJTfLYDfhbYGN4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307370909968-hk9rdpepgkfd4t250tgk715b5bd7bod7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307370909968:android:612b824f9a0267a9858595",
+        "android_client_info": {
+          "package_name": "com.sidomafit.mahasiswa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307370909968-0sgtjt742k40s21j0rg1si8dgiblqil7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sidomafit.mahasiswa",
+            "certificate_hash": "4e255dede5103c2ec3597bd0d75be32f42347e70"
+          }
+        },
+        {
+          "client_id": "307370909968-hk9rdpepgkfd4t250tgk715b5bd7bod7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Jplo1JO6miNR2Q9KSJTfLYDfhbYGN4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307370909968-hk9rdpepgkfd4t250tgk715b5bd7bod7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307370909968:android:ad6b0818139856bb858595",
+        "android_client_info": {
+          "package_name": "com.sidomafit.sidomamahasiswa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307370909968-hk9rdpepgkfd4t250tgk715b5bd7bod7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Jplo1JO6miNR2Q9KSJTfLYDfhbYGN4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307370909968-hk9rdpepgkfd4t250tgk715b5bd7bod7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
